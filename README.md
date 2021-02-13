@@ -1,4 +1,9 @@
+<p align="center">
+    <img src="./.github/Logo.png" />
+</p>
+
 # Share @Environment Example
+
 An example project for [Custom @Environment value for share actions](https://blog.artemnovichkov.com/editor/custom-environment-value-for-share-actions) article.
 
 ## Author

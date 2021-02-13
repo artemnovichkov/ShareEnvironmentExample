@@ -11,6 +11,7 @@
 		0618689025D7DFA700C0A1F2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0618688F25D7DFA700C0A1F2 /* ContentView.swift */; };
 		0618689225D7DFA900C0A1F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0618689125D7DFA900C0A1F2 /* Assets.xcassets */; };
 		0618689525D7DFA900C0A1F2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0618689425D7DFA900C0A1F2 /* Preview Assets.xcassets */; };
+		0618689E25D7DFBE00C0A1F2 /* ShareAction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0618689D25D7DFBE00C0A1F2 /* ShareAction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		0618689125D7DFA900C0A1F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0618689425D7DFA900C0A1F2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0618689625D7DFA900C0A1F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0618689D25D7DFBE00C0A1F2 /* ShareAction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareAction.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				0618688D25D7DFA700C0A1F2 /* ShareEnvironmentExampleApp.swift */,
 				0618688F25D7DFA700C0A1F2 /* ContentView.swift */,
+				0618689D25D7DFBE00C0A1F2 /* ShareAction.swift */,
 				0618689125D7DFA900C0A1F2 /* Assets.xcassets */,
 				0618689625D7DFA900C0A1F2 /* Info.plist */,
 				0618689325D7DFA900C0A1F2 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0618689025D7DFA700C0A1F2 /* ContentView.swift in Sources */,
+				0618689E25D7DFBE00C0A1F2 /* ShareAction.swift in Sources */,
 				0618688E25D7DFA700C0A1F2 /* ShareEnvironmentExampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

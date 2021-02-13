@@ -8,9 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @Environment(\.share) var share
+    
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Button("Share") {
+            share([URL(string: "https://blog.artemnovichkov.com")!])
+        }
     }
 }
 

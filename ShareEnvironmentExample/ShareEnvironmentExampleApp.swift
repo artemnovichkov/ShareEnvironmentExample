@@ -1,7 +1,4 @@
 //
-//  ShareEnvironmentExampleApp.swift
-//  ShareEnvironmentExample
-//
 //  Created by Artem Novichkov on 13.02.2021.
 //
 
